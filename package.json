@@ -1,0 +1,25 @@
+{
+	"name": "@zaions/lambda-layer-nodejs",
+	"version": "1.0.0",
+	"description": "Lambda Layer Functions for NodeJS Environment, created and maintained by Zaions (https://zaions.com).",
+	"main": "index.js",
+	"type": "module",
+	"displayName": "Zaions NodeJS Lambda Layer",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"keywords": [
+		"zaions",
+		"nodejs",
+		"lambda",
+		"layer",
+		"aoneahsan",
+		"Ahsan Mahmood"
+	],
+	"author": {
+		"email": "support@zaions.com",
+		"name": "Zaions",
+		"url": "https://zaions.com"
+	},
+	"license": "ISC"
+}
